@@ -30,7 +30,7 @@ ChatCord is a real-time chat application built using **Node.js**, **Express**, *
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ChatCord.git
+git clone https://github.com/ArghaAuddy/ChatCord-.git
 cd ChatCord
 
 # Install dependencies
