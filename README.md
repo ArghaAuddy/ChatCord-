@@ -35,3 +35,8 @@ cd ChatCord
 
 # Install dependencies
 npm install
+
+
+## Acknowledgements
+
+Inspired by Brad Traversy’s ChatCord tutorial, with improvements for Redis scalability and custom features.
