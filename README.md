@@ -34,8 +34,8 @@ git clone https://github.com/ArghaAuddy/ChatCord-.git
 cd ChatCord
 
 # Install dependencies
-npm install
-
+npm install 
+```
 
 ## Acknowledgements
 
